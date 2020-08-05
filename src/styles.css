@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Header {
+  width: 500px;
+  margins: auto;
+  background-color: lightblue;
+}
